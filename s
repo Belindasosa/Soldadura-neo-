@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+<head>
+<title>SOLDADURA NEO</title>
+<img src="images/Logo.PNG",widht="10",height="10"></img>
+<h1><center><font color="19429B">SOLDADURA NEO</font></center></h1>
+<h1>SOSA-VARGAS</h1>
+</head>
+<hr>
+<ul>
+<li><a href="index.html">Principal</a></li>
+<li><a href="contacto.html">contacto</a></li>
+<li><a href="precios.html">precios</a></li>
+<li><a href="formulario.html">formulario</a></li>
+</ul>
+<h2>PRINCIPAL</h2>
+<p>Somos una empresa que ofrece diferentes productos o servicios de la mejor calidad, siempre buscando la satisfaccion de nuestros clientes. si quieren conocer mas sobre los productos y servicios que ofrecemos ingresen a los enlaces del menu</p>
+<img src="images/IM12.png",widht="10",height="10"></img>
+<center><video controls width="600">
+<source src="video/promo.MP4" type="video/MP4">
+</video></center>
+</body>
+</html>
